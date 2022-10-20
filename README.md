@@ -1,1 +1,1 @@
-# React-robofriends
+# React App - RoboFriends
